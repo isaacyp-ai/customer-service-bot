@@ -4,3 +4,4 @@ __pycache__/
 .promptfoo/
 node_modules/
 *.log
+.env
